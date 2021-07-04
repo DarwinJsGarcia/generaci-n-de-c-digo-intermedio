@@ -1,1 +1,1 @@
-# generaci-n-de-c-digo-intermedio
+# generacion-de-codigo-intermedio
